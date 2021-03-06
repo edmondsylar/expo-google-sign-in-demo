@@ -1,1 +1,1 @@
-#Njoza-App-default-auth-starter-plate
+# Njoza-App-default-auth-starter-plate
